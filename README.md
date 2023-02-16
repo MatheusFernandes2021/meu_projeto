@@ -10,4 +10,4 @@ Este é um exemplo de projeto
 
 [ ] Não
 
-AAAAAAAAAAAAAAAAAAAA
+GitHub é mto legal
